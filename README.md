@@ -5,7 +5,10 @@ This program was written using the **Python** language and using the **OpenCV** 
 
 I tried this program on my local camera and I put pictures to make sure that the code works correctly.
 
-Here are some results:
+**Here are some results:**
+
+![‏‏لقطة الشاشة (359)](https://user-images.githubusercontent.com/85634050/125210016-a7585f80-e2a5-11eb-971e-904ec7f375e6.png)
+
 
 ![‏‏لقطة الشاشة (358)](https://user-images.githubusercontent.com/85634050/125209977-6f511c80-e2a5-11eb-8a06-a97d9571ca54.png)
 
